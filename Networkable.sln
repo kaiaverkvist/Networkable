@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networkable", "Networkable\Networkable.csproj", "{96A37AED-F6C2-4139-8B8A-2660E90CDCAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networkable.Example.EchoServer", "Networkable.Example.EchoServer\Networkable.Example.EchoServer.csproj", "{09C21308-FC8C-46D2-B6AC-B5C3FECAC5B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networkable.Example.EchoClient", "Networkable.Example.EchoClient\Networkable.Example.EchoClient.csproj", "{0EBCF203-E42A-4A4B-A0A9-FD867BD509D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A37AED-F6C2-4139-8B8A-2660E90CDCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A37AED-F6C2-4139-8B8A-2660E90CDCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A37AED-F6C2-4139-8B8A-2660E90CDCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A37AED-F6C2-4139-8B8A-2660E90CDCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C21308-FC8C-46D2-B6AC-B5C3FECAC5B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C21308-FC8C-46D2-B6AC-B5C3FECAC5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C21308-FC8C-46D2-B6AC-B5C3FECAC5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C21308-FC8C-46D2-B6AC-B5C3FECAC5B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EBCF203-E42A-4A4B-A0A9-FD867BD509D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EBCF203-E42A-4A4B-A0A9-FD867BD509D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EBCF203-E42A-4A4B-A0A9-FD867BD509D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EBCF203-E42A-4A4B-A0A9-FD867BD509D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
